@@ -1,7 +1,7 @@
 import numpy as np
 
 print("Register No: SJC22MCA-2020 \nName: Christeena Joy \nBatch: S3 MCA \n**************************\n")
-# Define the matrix A (replace with your own matrix)
+# Define the matrix A 
 A = np.array([[1, 2, 3],
               [4, 5, 6],
               [7, 8, 9]])
